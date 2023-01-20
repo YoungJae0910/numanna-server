@@ -2,6 +2,9 @@
     "name": "numanna-server",
     "version": "0.1.0",
     "private": true,
+    "engines": {
+        "node": "19.x"
+    },
     "dependencies": {
         "@metamodules/postgres": "^1.2.1",
         "deploy-node-app": "^1.4.3",

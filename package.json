@@ -31,7 +31,7 @@
     },
     "scripts": {
         "start": "node src/index.js",
-        "build": "react-scripts build",
+        "build": "",
         "deploy": "deploy-node-app",
         "test": "react-scripts test",
         "eject-www": "react-scripts eject",

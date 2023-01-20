@@ -18,7 +18,7 @@
     "users": [
         {
             "id": "admin",
-            "password": 1216985755,
+            "password": "1216985755",
             "name": "관리자",
             "displayName": "관리자의 닉네임",
             "email": "admin@numanna.com",
@@ -31,7 +31,7 @@
         },
         {
             "id": "admin2",
-            "password": 1216985755,
+            "password": "1216985755",
             "name": "관리자2",
             "displayName": "관리자2의 닉네임",
             "email": "admin2@numanna.com",
@@ -49,6 +49,18 @@
             "recepientId": "admin2",
             "sentAt": 2090920903,
             "content": "야 이 관리자야 관리 똑바로 못해??"
+        }
+    ],
+    "likes": [
+        {
+            "id": 0,
+            "userWhoLikes": "admin",
+            "userWhoIsLiked": "admin2"
+        },
+        {
+            "id": 1,
+            "userWhoLikes": "admin2",
+            "userWhoIsLiked": "admin"
         }
     ]
 }

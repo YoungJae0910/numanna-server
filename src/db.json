@@ -1,0 +1,54 @@
+{
+    "personalitySurveyQuestions": [
+        {
+            "id": 0,
+            "question": "당신은 사람입니까?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 1,
+            "question": "당신은 골초입니까??",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Smoking"
+        }
+    ],
+    "users": [
+        {
+            "id": "admin",
+            "password": 1216985755,
+            "name": "관리자",
+            "displayName": "관리자의 닉네임",
+            "email": "admin@numanna.com",
+            "age": 1,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 5
+            }
+        },
+        {
+            "id": "admin2",
+            "password": 1216985755,
+            "name": "관리자2",
+            "displayName": "관리자2의 닉네임",
+            "email": "admin2@numanna.com",
+            "age": 1,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 5
+            }
+        }
+    ],
+    "messages": [
+        {
+            "senderId": "admin",
+            "recepientId": "admin2",
+            "sentAt": 2090920903,
+            "content": "야 이 관리자야 관리 똑바로 못해??"
+        }
+    ]
+}

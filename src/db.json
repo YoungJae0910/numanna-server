@@ -2,17 +2,73 @@
     "personalitySurveyQuestions": [
         {
             "id": 0,
-            "question": "당신은 사람입니까?",
+            "question": "술자리를 즐기시나요?",
             "trueValue": 5,
             "falseValue": 1,
             "personalityScoreType": "Extroversion"
         },
         {
             "id": 1,
-            "question": "당신은 골초입니까??",
+            "question": "술에취하면 집으로 귀가하시나요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Alcohol"
+        },
+        {
+            "id": 2,
+            "question": "흡연을 하시나요?",
             "trueValue": 5,
             "falseValue": 1,
             "personalityScoreType": "Smoking"
+        },
+        {
+            "id": 3,
+            "question": "파트너가 흡연을해도 괜찮은가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Smoking"
+        },
+        {
+            "id": 4,
+            "question": "파트너가 술을 못마셔도 괜찮은가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Alcohol"
+        },
+        {
+            "id": 5,
+            "question": "술을 즐기시나요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Alcohol"
+        },
+        {
+            "id": 6,
+            "question": "술자리가 재미없다면 분위기를 띄우는 편인가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Alcohol"
+        },
+        {
+            "id": 7,
+            "question": "처음보는 사람들과 어색하지않게 지내시나요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 8,
+            "question": "상대방이 마음에안든다면 도망갈건가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 9,
+            "question": "즐기실준비가 되었나요? :p",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
         }
     ],
     "users": [

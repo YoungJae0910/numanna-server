@@ -80,6 +80,7 @@
             "email": "admin@numanna.com",
             "age": 1,
             "sex": "Male",
+            "partnerSex": "Female",
             "personalityType": {
                 "ExtroversionScore": 0,
                 "SmokingScore": 0,
@@ -94,6 +95,8 @@
             "email": "admin2@numanna.com",
             "age": 1,
             "sex": "Other",
+            "partnerSex": "Female",
+
             "personalityType": {
                 "ExtroversionScore": 0,
                 "SmokingScore": 0,
@@ -106,6 +109,7 @@
             "name": "관리자3",
             "nickName": "관리자3의 닉네임",
             "sex": "Female",
+            "partnerSex": "Other",
             "email": "admin2@numanna.com",
             "age": 1,
             "personalityType": {

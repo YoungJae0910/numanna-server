@@ -76,7 +76,7 @@
             "id": "admin",
             "password": "1216985755",
             "name": "관리자",
-            "displayName": "관리자의 닉네임",
+            "nickName": "관리자의 닉네임",
             "email": "admin@numanna.com",
             "age": 1,
             "personalityType": {
@@ -89,7 +89,7 @@
             "id": "admin2",
             "password": "1216985755",
             "name": "관리자2",
-            "displayName": "관리자2의 닉네임",
+            "nickName": "관리자2의 닉네임",
             "email": "admin2@numanna.com",
             "age": 1,
             "personalityType": {
@@ -102,7 +102,7 @@
             "id": "admin3",
             "password": "1216985755",
             "name": "관리자3",
-            "displayName": "관리자3의 닉네임",
+            "nickName": "관리자3의 닉네임",
             "email": "admin2@numanna.com",
             "age": 1,
             "personalityType": {

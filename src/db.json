@@ -17,8 +17,8 @@
         {
             "id": 2,
             "question": "흡연을 하시나요?",
-            "trueValue": 5,
-            "falseValue": 1,
+            "trueValue": 1,
+            "falseValue": 5,
             "personalityScoreType": "Smoking"
         },
         {
@@ -65,6 +65,20 @@
         },
         {
             "id": 9,
+            "question": "다른사람과 만났을때 자기소개를 잘 하시나요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 10,
+            "question": "모임에서 다양한 사람들과의 대화가 자연스러우신가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 11,
             "question": "즐기실준비가 되었나요? :p",
             "trueValue": 5,
             "falseValue": 1,

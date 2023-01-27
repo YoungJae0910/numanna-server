@@ -152,7 +152,22 @@
             "nickName": "관리자3의 닉네임",
             "sex": "Female",
             "partnerSex": "Other",
-            "email": "admin2@numanna.com",
+            "email": "admin3@numanna.com",
+            "age": 1,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 5
+            }
+        },
+        {
+            "id": "admin4",
+            "password": "1216985755",
+            "name": "관리자4",
+            "nickName": "관리자4의 닉네임",
+            "sex": "Female",
+            "partnerSex": "Other",
+            "email": "admin4@numanna.com",
             "age": 1,
             "personalityType": {
                 "ExtroversionScore": 0,

@@ -58,7 +58,7 @@
         },
         {
             "id": 8,
-            "question": "상대방이 마음에안든다면 도망갈건가요?",
+            "question": "상대방이 마음에 안든다면 도망갈건가요?",
             "trueValue": 5,
             "falseValue": 1,
             "personalityScoreType": "Extroversion"
@@ -79,6 +79,34 @@
         },
         {
             "id": 11,
+            "question": "다른사람에게 자신의 이야기를 말하는게 쉬우신가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 12,
+            "question": "다른사람을 돌보는 것을 좋아하시나요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 13,
+            "question": "공감능력이 뛰어나신가요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 14,
+            "question": "반려동물을 좋아하시나요?",
+            "trueValue": 5,
+            "falseValue": 1,
+            "personalityScoreType": "Extroversion"
+        },
+        {
+            "id": 15,
             "question": "즐기실준비가 되었나요? :p",
             "trueValue": 5,
             "falseValue": 1,

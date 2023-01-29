@@ -152,7 +152,7 @@
             "nickName": "관리자3의 닉네임",
             "sex": "Female",
             "partnerSex": "Other",
-            "email": "admin3@numanna.com",
+            "email": "admin2@numanna.com",
             "age": 1,
             "personalityType": {
                 "ExtroversionScore": 0,
@@ -161,18 +161,378 @@
             }
         },
         {
-            "id": "admin5",
-            "password": "1216985755",
-            "name": "관리자4",
-            "nickName": "관리자4의 닉네임",
+            "id": "goyange",
+            "password": "goyang1!",
+            "name": "카리나",
+            "nickName": "카리나짱",
             "sex": "Female",
+            "partnerSex": "Male",
+            "email": "karina12@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 4,
+                "SmokingScore": 2,
+                "AlcoholScore": 5
+            }
+        }, 
+        {
+            "id": "winter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "ailee123",
+            "password": "aily123!",
+            "name": "에일리",
+            "nickName": "섹쉬핫바디",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "ailee@numanna.com",
+            "age": 31,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "dkdkdk123",
+            "password": "dkdkdk123!",
+            "name": "철구",
+            "nickName": "앙기모띠",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "dkdkdk@numanna.com",
+            "age": 32,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 99,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wnsqls123",
+            "password": "wnsqls123!",
+            "name": "곽준빈",
+            "nickName": "곽튜브",
+            "sex": "Male",
             "partnerSex": "Other",
-            "email": "admin4@numanna.com",
-            "age": 1,
+            "email": "wnsqls123@numanna.com",
+            "age": 33,
             "personalityType": {
                 "ExtroversionScore": 0,
                 "SmokingScore": 0,
-                "AlcoholScore": 5
+                "AlcoholScore": 1
+            }
+        },
+        {
+            "id": "hunter123",
+            "password": "hunter123!",
+            "name": "헌터퐝",
+            "nickName": "헌터퐝이에요",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "hunter@numanna.com",
+            "age": 35,
+            "personalityType": {
+                "ExtroversionScore": 8,
+                "SmokingScore": 9,
+                "AlcoholScore": 2
+            }
+        },
+        {
+            "id": "tjwns123",
+            "password": "tjwns123!",
+            "name": "박서준",
+            "nickName": "여친구함",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "tjwns@numanna.com",
+            "age": 36,
+            "personalityType": {
+                "ExtroversionScore": 5,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "zzyang123",
+            "password": "zzyang123!",
+            "name": "쯔양",
+            "nickName": "식대400만",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "zzyang@numanna.com",
+            "age": 29,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 0,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "tirano123",
+            "password": "tirano123!",
+            "name": "티라노",
+            "nickName": "사우르스",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "tirano@numanna.com",
+            "age": 600,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 0
+            }
+        }, 
+        {
+            "id": "winter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "ailee123",
+            "password": "aily123!",
+            "name": "에일리",
+            "nickName": "섹쉬핫바디",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "ailee@numanna.com",
+            "age": 31,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "dkdkdk123",
+            "password": "dkdkdk123!",
+            "name": "철구",
+            "nickName": "앙기모띠",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "dkdkdk@numanna.com",
+            "age": 32,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 99,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wnsqls123",
+            "password": "wnsqls123!",
+            "name": "곽준빈",
+            "nickName": "곽튜브",
+            "sex": "Male",
+            "partnerSex": "Other",
+            "email": "wnsqls123@numanna.com",
+            "age": 33,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 1
+            }
+        },
+        {
+            "id": "hunter123",
+            "password": "hunter123!",
+            "name": "헌터퐝",
+            "nickName": "헌터퐝이에요",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "hunter@numanna.com",
+            "age": 35,
+            "personalityType": {
+                "ExtroversionScore": 8,
+                "SmokingScore": 9,
+                "AlcoholScore": 2
+            }
+        },
+        {
+            "id": "tjwns123",
+            "password": "tjwns123!",
+            "name": "박서준",
+            "nickName": "여친구함",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "tjwns@numanna.com",
+            "age": 36,
+            "personalityType": {
+                "ExtroversionScore": 5,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "zzyang123",
+            "password": "zzyang123!",
+            "name": "쯔양",
+            "nickName": "식대400만",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "zzyang@numanna.com",
+            "age": 29,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 0,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "tirano123",
+            "password": "tirano123!",
+            "name": "티라노",
+            "nickName": "사우르스",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "tirano@numanna.com",
+            "age": 600,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 0
+            }
+        }, 
+        {
+            "id": "winter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "ailee123",
+            "password": "aily123!",
+            "name": "에일리",
+            "nickName": "섹쉬핫바디",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "ailee@numanna.com",
+            "age": 31,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "dkdkdk123",
+            "password": "dkdkdk123!",
+            "name": "철구",
+            "nickName": "앙기모띠",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "dkdkdk@numanna.com",
+            "age": 32,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 99,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wnsqls123",
+            "password": "wnsqls123!",
+            "name": "곽준빈",
+            "nickName": "곽튜브",
+            "sex": "Male",
+            "partnerSex": "Other",
+            "email": "wnsqls123@numanna.com",
+            "age": 33,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 1
+            }
+        },
+        {
+            "id": "hunter123",
+            "password": "hunter123!",
+            "name": "헌터퐝",
+            "nickName": "헌터퐝이에요",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "hunter@numanna.com",
+            "age": 35,
+            "personalityType": {
+                "ExtroversionScore": 8,
+                "SmokingScore": 9,
+                "AlcoholScore": 2
+            }
+        },
+        {
+            "id": "tjwns123",
+            "password": "tjwns123!",
+            "name": "박서준",
+            "nickName": "여친구함",
+            "sex": "Male",
+            "partnerSex": "Female",
+            "email": "tjwns@numanna.com",
+            "age": 36,
+            "personalityType": {
+                "ExtroversionScore": 5,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "zzyang123",
+            "password": "zzyang123!",
+            "name": "쯔양",
+            "nickName": "식대400만",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "zzyang@numanna.com",
+            "age": 29,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 0,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "tirano123",
+            "password": "tirano123!",
+            "name": "티라노",
+            "nickName": "사우르스",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "tirano@numanna.com",
+            "age": 600,
+            "personalityType": {
+                "ExtroversionScore": 0,
+                "SmokingScore": 0,
+                "AlcoholScore": 0
             }
         }
     ],

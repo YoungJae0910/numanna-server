@@ -174,7 +174,7 @@
                 "SmokingScore": 2,
                 "AlcoholScore": 5
             }
-        }, 
+        },
         {
             "id": "winter123",
             "password": "winter123!",
@@ -294,7 +294,7 @@
                 "SmokingScore": 0,
                 "AlcoholScore": 0
             }
-        }, 
+        },
         {
             "id": "winter123",
             "password": "winter123!",
@@ -414,7 +414,7 @@
                 "SmokingScore": 0,
                 "AlcoholScore": 0
             }
-        }, 
+        },
         {
             "id": "winter123",
             "password": "winter123!",
@@ -431,14 +431,14 @@
             }
         },
         {
-            "id": "ailee123",
-            "password": "aily123!",
-            "name": "에일리",
-            "nickName": "섹쉬핫바디",
+            "id": "winter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
             "sex": "Female",
             "partnerSex": "Male",
-            "email": "ailee@numanna.com",
-            "age": 31,
+            "email": "winter@numanna.com",
+            "age": 24,
             "personalityType": {
                 "ExtroversionScore": 2,
                 "SmokingScore": 4,
@@ -446,48 +446,663 @@
             }
         },
         {
-            "id": "dkdkdk123",
-            "password": "dkdkdk123!",
-            "name": "철구",
-            "nickName": "앙기모띠",
-            "sex": "Male",
-            "partnerSex": "Female",
-            "email": "dkdkdk@numanna.com",
-            "age": 32,
+            "id": "winter1233",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
             "personalityType": {
                 "ExtroversionScore": 2,
-                "SmokingScore": 99,
+                "SmokingScore": 4,
                 "AlcoholScore": 7
             }
         },
         {
-            "id": "wnsqls123",
-            "password": "wnsqls123!",
-            "name": "곽준빈",
-            "nickName": "곽튜브",
-            "sex": "Male",
-            "partnerSex": "Other",
-            "email": "wnsqls123@numanna.com",
-            "age": 33,
+            "id": "winter123323",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
             "personalityType": {
-                "ExtroversionScore": 0,
-                "SmokingScore": 0,
-                "AlcoholScore": 1
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
             }
         },
         {
-            "id": "hunter123",
-            "password": "hunter123!",
-            "name": "헌터퐝",
-            "nickName": "헌터퐝이에요",
-            "sex": "Male",
-            "partnerSex": "Female",
-            "email": "hunter@numanna.com",
-            "age": 35,
+            "id": "winter123123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
             "personalityType": {
-                "ExtroversionScore": 8,
-                "SmokingScore": 9,
-                "AlcoholScore": 2
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter123442",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter123626",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter123757",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter12asd3",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter123asdsd",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter12asdasd3",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winterdda123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wi4nter12423",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter231123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winte23dr123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winte442r123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winteadwdr123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter2323123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winte1322r123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winte442r123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winte2323dr123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter23eaf123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winteseafr123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winsraeter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "widgafnter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter1WRE23",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wintersdfe123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter12safd3",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winterearr123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wintergsgds123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter1sdfsf23",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winterwerwr123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter1weta23",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winasdasdter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter12fsdf3",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter12assd3",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter123233242",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter11242141423",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wintr3sdfer123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winter1hdrrgsd23",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "win324234ter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winwefsdfeter123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "winte23423434r123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wintsdfsdfer123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wint53255er123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
+            }
+        },
+        {
+            "id": "wintsdfsdfer123",
+            "password": "winter123!",
+            "name": "윈터",
+            "nickName": "윈터얌",
+            "sex": "Female",
+            "partnerSex": "Male",
+            "email": "winter@numanna.com",
+            "age": 24,
+            "personalityType": {
+                "ExtroversionScore": 2,
+                "SmokingScore": 4,
+                "AlcoholScore": 7
             }
         },
         {
